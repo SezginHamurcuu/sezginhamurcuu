@@ -13,8 +13,32 @@
 
 [![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sezginhamurcu/)
 
+<!-- Language and Tools section -->
+### Languages and Tools:
 
+<!-- Java -->
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="48" height="48">
 
+<!-- JavaScript -->
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" width="48" height="48">
+
+<!-- Selenium WebDriver -->
+<img src="https://img.icons8.com/officel/48/000000/automatic.png" alt="Selenium WebDriver" width="48" height="48">
+
+<!-- Cypress.io -->
+<img src="https://img.icons8.com/color/48/000000/cypress.png" alt="Cypress.io" width="48" height="48">
+
+<!-- Git -->
+<img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="48" height="48">
+
+<!-- GitHub -->
+<img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub" width="48" height="48">
+
+<!-- HTML -->
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" width="48" height="48">
+
+<!-- CSS -->
+<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="48" height="48">
 
 
 <!--
