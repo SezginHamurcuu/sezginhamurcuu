@@ -1,4 +1,4 @@
-          ### Hi 👋, I'm Sezgin Hamurcu
+### Hi 👋, I'm Sezgin Hamurcu
 <!-- How to Reach Me -->
 ## 📫 How to Reach Me
 
