@@ -1,10 +1,6 @@
-### Hi there 👋 Hi 👋, I'm Sezzgin Hamurcu
+          ### Hi 👋, I'm Sezgin Hamurcu
 <!-- How to Reach Me -->
 ## 📫 How to Reach Me
-
-<p align="left">
-  <img src="https://image.flaticon.com/icons/png/512/281/281769.png" alt="Gmail Logo" width="50" height="50">
-</p>
 
 <p align="left">
   <a href="mailto:your.email@gmail.com">
