@@ -2,11 +2,11 @@
 <!-- How to Reach Me -->
 ## 📫 How to Reach Me
 
-<p align="center">
+<p align="left">
   <img src="https://image.flaticon.com/icons/png/512/281/281769.png" alt="Gmail Logo" width="50" height="50">
 </p>
 
-<p align="center">
+<p align="left">
   <a href="mailto:your.email@gmail.com">
     <img src="https://img.shields.io/badge/Email-Me%20Now-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me Now" />
   </a>
