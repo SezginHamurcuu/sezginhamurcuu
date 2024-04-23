@@ -8,6 +8,13 @@
   </a>
 </p>
 
+<!-- Connect with me section -->
+### Connect with me:
+
+[![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sezginhamurcu/)
+
+
+
 
 
 <!--
